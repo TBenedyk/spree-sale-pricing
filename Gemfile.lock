@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     spree_sale_pricing (0.2.0)
-      spree_core (~> 2.0.0)
+      spree_core (~> 2.3.4)
 
 GEM
   remote: http://rubygems.org/
